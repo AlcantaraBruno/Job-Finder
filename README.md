@@ -11,8 +11,5 @@ Jobfinder is a website for registering job vacancies and for job seekers. This p
 ### Home screen
 ![1-JF](https://user-images.githubusercontent.com/32379195/93540491-3452b680-f92a-11ea-87d6-d40b071b19d5.gif)
 
-### Registration of vacancies
-
-![2-JF](https://user-images.githubusercontent.com/32379195/93540544-5cdab080-f92a-11ea-87ae-a5d75d108bfc.gif)
 
 
